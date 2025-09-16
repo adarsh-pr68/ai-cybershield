@@ -17,7 +17,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          <h1>HackHyd Cyber Threat Intelligence</h1>
+          <h1>Cyber Threat Intelligence</h1>
           <div className="role-selector">
             <label htmlFor="role">Select Role: </label>
             <select id="role" value={userRole} onChange={(e) => setUserRole(e.target.value)}>
