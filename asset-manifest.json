@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-cybershield/static/css/main.5d6f2244.css",
+    "main.js": "/ai-cybershield/static/js/main.c38d95e7.js",
+    "static/js/453.15dd9800.chunk.js": "/ai-cybershield/static/js/453.15dd9800.chunk.js",
+    "index.html": "/ai-cybershield/index.html",
+    "main.5d6f2244.css.map": "/ai-cybershield/static/css/main.5d6f2244.css.map",
+    "main.c38d95e7.js.map": "/ai-cybershield/static/js/main.c38d95e7.js.map",
+    "453.15dd9800.chunk.js.map": "/ai-cybershield/static/js/453.15dd9800.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6f2244.css",
+    "static/js/main.c38d95e7.js"
+  ]
+}
