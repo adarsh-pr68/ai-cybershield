@@ -1,0 +1,9 @@
+id,title,description,severity,category,source,cve_id,affected_systems,mitigation_status,created_at,updated_at
+uuid-1,Log4j Zero-Day,Remote code execution in Apache Log4j,critical,CVE,NVD,CVE-2021-44228,12000,pending,2023-11-15T00:00:00Z,2023-11-15T00:00:00Z
+uuid-2,Phishing Campaign,Emails targeting finance sector,high,Phishing,OpenPhish,,3500,in-progress,2023-11-14T00:00:00Z,2023-11-14T00:00:00Z
+
+4455c972-667c-40dd-aeb8-d3afa544e374,New Malware Campaign,A new malware campaign targeting financial institutions.,critical,Malware,Internal Intel,,500,pending,2025-09-16T07:24:08.781Z,2025-09-16T07:24:08.782Z
+a1ce1959-6402-4f1c-9a3c-945f5f3da6b9,New Malware Campaign,A new malware campaign targeting financial institutions.,critical,Malware,Internal Intel,,500,pending,2025-09-16T07:26:24.605Z,2025-09-16T07:26:24.606Z
+f42a6c10-4773-4b7e-8e06-12eb2a3e2a57,New Malware Campaign,A new malware campaign targeting financial institutions.,critical,Malware,Internal Intel,,500,pending,2025-09-16T07:29:35.955Z,2025-09-16T07:29:35.956Z
+97301f67-13d2-425b-b2a5-1957baebf48d,New Malware Campaign,A new malware campaign targeting financial institutions.,critical,Malware,Internal Intel,,500,pending,2025-09-16T07:32:54.106Z,2025-09-16T07:32:54.106Z
+6062bfbc-6241-48d4-97c3-9d2374332386,New Malware Campaign,A new malware campaign targeting financial institutions.,critical,Malware,Internal Intel,,500,pending,2025-09-16T07:48:41.868Z,2025-09-16T07:48:41.868Z
