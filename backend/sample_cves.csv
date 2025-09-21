@@ -1,0 +1,6 @@
+id,cve_id,description,cvss,priority
+1,CVE-2021-44228,Apache Log4j2 JNDI features do not protect against attacker controlled LDAP and other JNDI related endpoints.,10.0,Critical
+2,CVE-2022-22965,A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding.,9.8,Critical
+3,CVE-2022-0847,A flaw was found in the way the Linux kernel's pipes handled new data. An unprivileged local user could use this flaw to write to pages in the page cache backed by read only files and as a result, escalate their privileges on the system.,7.8,High
+4,CVE-2021-34473,Microsoft Exchange Server Remote Code Execution Vulnerability.,9.8,Critical
+5,CVE-2020-1472,Microsoft Windows Netlogon Elevation of Privilege Vulnerability.,10.0,Critical

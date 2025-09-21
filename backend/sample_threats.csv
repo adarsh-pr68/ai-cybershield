@@ -1,0 +1,6 @@
+id,threat,actor,risk,description
+1,Malware,APT28,High,"A new malware campaign targeting financial institutions."
+2,Phishing,FIN7,Medium,"Phishing emails disguised as invoices are being sent to employees."
+3,DDoS,Anonymous,High,"A large-scale DDoS attack is targeting our web servers."
+4,Insider Threat,Unknown,Low,"An employee was found to have accessed confidential data without authorization."
+5,Ransomware,Conti,High,"A ransomware attack has encrypted files on several servers."
