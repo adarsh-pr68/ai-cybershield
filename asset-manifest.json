@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ai-CyberShield/static/css/main.e6c13ad2.css",
+    "main.js": "/Ai-CyberShield/static/js/main.75469177.js",
+    "static/js/453.54292a4b.chunk.js": "/Ai-CyberShield/static/js/453.54292a4b.chunk.js",
+    "index.html": "/Ai-CyberShield/index.html",
+    "static/media/logo.svg": "/Ai-CyberShield/static/media/logo.aacb7fe6a6b849c64c7aa254cc90131a.svg",
+    "main.e6c13ad2.css.map": "/Ai-CyberShield/static/css/main.e6c13ad2.css.map",
+    "main.75469177.js.map": "/Ai-CyberShield/static/js/main.75469177.js.map",
+    "453.54292a4b.chunk.js.map": "/Ai-CyberShield/static/js/453.54292a4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.75469177.js"
+  ]
+}
